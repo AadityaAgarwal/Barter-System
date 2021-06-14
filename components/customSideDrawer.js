@@ -85,12 +85,12 @@ export default class CustomSideDrawer extends React.Component {
             <View style={{flex:1}}>
               
               <View
-          style={{
-            flex: 0.3,
+           style={{
+          //   flex: 0.3,
             justifyContent: "center",
             alignItems: "center",
             backgroundColor: "#32867d",
-          }}
+           }}
         >
           <Avatar
             rounded
